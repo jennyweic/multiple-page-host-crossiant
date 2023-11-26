@@ -31,6 +31,16 @@ div {
 }
 /* above list note: set to table and center with margin */
 
+p {
+  margin: 25px auto;
+  text-align: center;
+  padding: 0 80px 25px 80px;
+}
+
+h3 {
+  padding: 0 80px 25px 80px;
+}
+
 /* photos */
 img {
   width: 80%;
