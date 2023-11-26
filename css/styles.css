@@ -1,0 +1,39 @@
+/* Universal */
+
+body {
+  background-color: blanchedalmond;
+  text-align: center;
+}
+
+h1 {
+  color: darkgoldenrod;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+}
+
+a {
+  color: navy;
+  font-size: x-large;
+}
+
+a:visited {
+  color: green;
+}
+
+/* Homepage */
+div {
+  display: table;
+  margin: 0 auto;
+}
+/* above list note: set to table and center with margin */
+
+/* photos */
+img {
+  width: 80%;
+  height: auto;
+  border-radius: 25px;
+}
